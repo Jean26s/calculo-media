@@ -1,2 +1,1 @@
-# calculo-media
-Calcule a nota media de um aluno 
+Programa para calcular uma media escolar 
